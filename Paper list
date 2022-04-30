@@ -1,0 +1,69 @@
+Information Security Management Domain:
+1. Fenz, S. and Ekelhart, A. “Formalizing Information Security Knowledge”.
+In: Proceedings of the 4th International Symposium on information,Computer, 
+and Communications Security. ACM. 2009, pp. 183–194.
+
+Vulnerability Domain:
+2.Wang, J. A. and Guo, M. “OVM: An Ontology for Vulnerability
+Management”. In: Proceedings of the 5th Annual Workshop on Cyber
+Security and Information Intelligence Research: Cyber Security and
+Information Intelligence Challenges and Strategies. ACM. 2009.
+
+Cyber Security Domain
+3.Obrst, L., Chase, P., and Markeloff, R. “Developing an Ontology of
+the Cyber Security Domain”. In: Proceedings of the 7th International
+Conference on Semantic Technology for Intelligence, Defense, and Security
+(STIDS). 2012, pp. 49–56.
+
+4.Iannacone, M. et al. “Developing an Ontology for Cyber Security Knowledge
+Graphs”. In: Proceedings of the 10th Annual Cyber and Information Security
+Research Conference. ACM. 2015
+
+5.Syed, Z. et al. “UCO: A Unified Cybersecurity Ontology”. In: Proceedings
+of the AAAI Workshop on Artificial Intelligence for Cyber Security. AAAI
+Press. 2016.
+
+6.Nelson, Unified Cyber Ontology, https://github.com/ucoProject/uco
+
+Intrution Detectioin Domain:
+7.Undercoffer, J., Joshi, A., and Pinkston, J. “Modeling Computer Attacks:
+An Ontology for Intrusion Detection”. In: Proceedings of the International
+Workshop on Recent Advances in Intrusion Detection. Springer. 2003,
+pp. 113–135.
+
+8.More, S. et al. “A Knowledge-Based Approach to Intrusion Detection
+Modeling”. In: Proceedings of the 2012 IEEE Symposium on Security and
+Privacy Workshops (SPW). IEEE. 2012, pp. 75–81.
+
+Malware Domain:
+9.Oltramari, A. et al. “Building an Ontology of Cyber Security”. In:
+Proceedings of the 9th International Conference on Semantic Technology
+for Intelligence, Defense, and Security (STIDS). Citeseer. 2014, pp. 54–61.
+
+10.Grégio, A. et al. “Ontology for Malware Behavior: A Core Model Proposal”.
+In: Proceedings of the 23rd IEEE International Conference on Enabling
+Technologies: Infrastructure for Collaborative Enterprises (WETICE).
+IEEE. 2014, pp. 453–458
+
+Cybersecurity Analysis System Domain:
+11.Salem, M. B. and Wacek, C. “Enabling New Technologies for Cyber Security
+Defense with the ICAS Cyber Security Ontology”. In: Proceedings of the
+10th International Conference on Semantic Technology for Intelligence,
+Defense, and Security (STIDS). 2015, pp. 42–49.
+
+Attack Surfaces Domain:
+12.Fusun, M. B. et al. “Using Ontologies to Quantify Attack Surfaces”. In:
+Proceedings of the 11th International Conference on Semantic Technology
+for Intelligence, Defense, and Security (STIDS). 2016.
+
+Cybersecurity Operation Analysis Domain:
+13.Onwubiko.“CoCoa: An Ontology for Cybersecurity Operations Centre Analysis 
+Process”.In:2018 International Conference On Cyber Situational Awareness, 
+Data Analytics And Assessment (Cyber SA).
+
+Cyber Intelligence Domain:
+14.Vasileios Mavroeidis, and Audun Jøsang.Data-Driven Threat Hunting Using
+Sysmon.In:Proceedings of the 2nd International Conference on
+Cryptography, Security and Privacy (ICCSP 2018), Guiyang, China, March
+2018, pp. 82–88, DOI: 10.1145/3199478.3199490, ACM.
+
